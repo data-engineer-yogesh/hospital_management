@@ -79,7 +79,7 @@ Focus: advanced analytics, ranking, and temporal patterns.
 
 ## Analysis
 
-The documentation of the data analysis process is included in the file [*hospital_management.sql*]()
+The documentation of the data analysis process is included in the file [*hospital_management.sql*](https://github.com/data-engineer-yogesh/hospital_management/blob/main/hospital_management.sql)
 
 ## Summary
 
